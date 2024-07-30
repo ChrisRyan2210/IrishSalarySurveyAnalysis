@@ -27,8 +27,6 @@ This project was undertaken soon after I graduated and right before I started my
 
 ## Data
 
-Provide a description of the dataset(s) used, including sources, types of data, and any relevant details.
-
 - **Source**: Public Online Survey ran at https://www.reddit.com/r/DevelEire/
 - **Raw Data**: https://docs.google.com/spreadsheets/d/1BxAgFD-m-6UAo5gcxulmdFdKXywMk_jcb1v3FBEQ-t0/edit?gid=155183096#gid=155183096 - 
 - **Description**: Tech Job Salaries (Ireland, N.Ireland, Other)
@@ -108,11 +106,9 @@ Provide detailed analysis, including any insights you discovered. Use bullet poi
 
 ## Results
 
-Summarize the main results of your analysis. Highlight key findings and their implications.
-
-- **Key Finding 1**: Description
-- **Key Finding 2**: Description
-- **Key Finding 3**: Description
+- **Key Finding 1**: While urban locations and areas outside of Ireland offer higher total compensation, interestingly, Cork has lower compensation.
+- **Key Finding 2**: Most regions exhibit clustering around the €50K to €80K range, indicating this is a common compensation range for Data/Business Analysts in these areas. This gives me a good indication to potential earnings upon completetion of my graduate program.
+- **Key Finding 3**: Data Engineering/Science roles consistently offer higher compensation across all levels of seniority compared to Data/Business Analyst roles, with an even higher disparity at higher seniority levels. This indicated that organisations may need to restructure compensation costs or increase number of senior roles for Data/Business Analysts to attract and retain talent. 
 
 ## Acknowledgments
 
