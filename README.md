@@ -52,9 +52,51 @@ Provide a description of the dataset(s) used, including sources, types of data, 
        - 
 ## Visualizations
 
-1. **Visualization 1**: ![Dashboard 1](link-to-screenshot-or-dashboard)
+1. **Visualization 1**
+
+   ![image](https://github.com/user-attachments/assets/ab7ca3a4-2056-47fc-8bef-f232da3330c7)
+
    - Description
-2. **Visualization 2**: ![Dashboard 2](link-to-screenshot-or-dashboard)
+2. **Visualization 2**
+
+   ![image](https://github.com/user-attachments/assets/ea4611a1-49a9-4641-bf48-755feeb7e69c)
+
+   - Description
+
+3. **Visualization 3**
+
+   ![image](https://github.com/user-attachments/assets/99d74d03-ea2c-41aa-998a-8f4bd567c4cd)
+
+
+   - Description
+
+4. **Visualization 4**
+
+   ![image](https://github.com/user-attachments/assets/e22f266f-6fb2-4630-94f4-373d518cc8af)
+
+
+   - Description
+
+5. **Visualization 5**
+
+   ![image](https://github.com/user-attachments/assets/a52dc2ff-bb63-41fe-90bf-c29e6c263f06)
+
+
+   - Description
+
+6. **Visualization 6**
+
+   ![image](https://github.com/user-attachments/assets/974b990b-98a2-42fb-84e7-5d042bb83715)
+
+
+   - Description
+
+7. **Visualization 7**
+
+
+   ![image](https://github.com/user-attachments/assets/345859ba-d9ee-4969-98b8-42a65d892876)
+
+
    - Description
 
 ## Analysis
@@ -84,4 +126,4 @@ Acknowledge any individuals or resources that helped you with the project.
 Feel free to contact me for any questions or collaborations:
 
 - **Email**: [chrisryan@umail.ucc.ie](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/christopher-ryan-8229a81b9/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/christopher-ryan-8229a81b9/)
