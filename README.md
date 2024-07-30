@@ -43,10 +43,15 @@ Outline the steps you took to analyze the data:
    - Excel
        - Performed preliminary analysis on Excel to remove columns not relevant to my objective.
        - Removed any entries of unemployed people as most still had salaries entered which would skew the data.
-   - SQL Server Management Studio
-       - 
-3. **Data Transformation**: Mention any transformations done on the data to prepare it for analysis.
-4. **Data Analysis**: Discuss the analytical methods and tools used to analyze the data.
+   - SQL (SQL Server Management Studio)
+       - Removed additional unememployed rows that were missed in initial screening. ![sql1](https://github.com/user-attachments/assets/65f25e5b-a09c-457c-8ce2-975d3e76e9e0)
+2. **Data Transformation**:
+   - SQL (SQL Server Management Studio)
+       - Udpated total compensation column to a number instead of range and transformed data type to float.![image](https://github.com/user-attachments/assets/4330e367-e9e5-4200-a1c4-41c38ad94fd8)
+3. **Data Analysis**: Discuss the analytical methods and tools used to analyze the data.
+   - SQL (SQL Server Management Studio)
+       - Performed some initial basic exploratory analysis to get understanding of data. ![image](https://github.com/user-attachments/assets/62e24d6a-ab11-4a3f-88f7-bf3162f95253)
+
 
 ## Analysis
 
