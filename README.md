@@ -22,24 +22,29 @@ This project was undertaken soon after I graduated and right before I started my
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - **Excel**: For preliminary analysis
 - **SSIS**: For ETL purposes
-- **SQL**: For data cleaning, extraction, manipulation, and exploratory analysis
+- **SQL**: For data cleaning, manipulation, and exploratory analysis
 - **Tableau**: For data visualisation
 
 ## Data
 
 Provide a description of the dataset(s) used, including sources, types of data, and any relevant details.
 
-- **Source**: (e.g., Kaggle, public databases, company data)
-- **Description**: (e.g., sales data, customer demographics, etc.)
-- **Size**: (e.g., number of rows and columns)
-- **Time period**: (e.g., data from 2019-2021)
+- **Source**: Public Online Survey ran at https://www.reddit.com/r/DevelEire/
+- **Raw Data**: https://docs.google.com/spreadsheets/d/1BxAgFD-m-6UAo5gcxulmdFdKXywMk_jcb1v3FBEQ-t0/edit?gid=155183096#gid=155183096 - 
+- **Description**: Tech Job Salaries (Ireland, N.Ireland, Other)
+- **Size**: 1253 Rows, 35 Columns
+- **Time period**: (July, 2024)
 
 ## Methodology
 
 Outline the steps you took to analyze the data:
 
-1. **Data Extraction**: Describe how you used SQL to extract the data.
-2. **Data Cleaning**: Explain the cleaning process in Excel, including handling missing values, removing duplicates, etc.
+1. **Data Cleaning**:
+   - Excel
+       - Performed preliminary analysis on Excel to remove columns not relevant to my objective.
+       - Removed any entries of unemployed people as most still had salaries entered which would skew the data.
+   - SQL Server Management Studio
+       - 
 3. **Data Transformation**: Mention any transformations done on the data to prepare it for analysis.
 4. **Data Analysis**: Discuss the analytical methods and tools used to analyze the data.
 
