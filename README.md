@@ -54,40 +54,41 @@ This project was undertaken soon after I graduated and right before I started my
 
    ![image](https://github.com/user-attachments/assets/ab7ca3a4-2056-47fc-8bef-f232da3330c7)
 
-   - Description
+   - Business Analytics & Data Analytics rank 24th and 25th respectively (75.81 and 79.03 percentile) compared to other tech job salaries.
+   - Average salary of 70000 and 67000 euro per year across the entire dataset.
+     
 2. **Visualization 2**
 
    ![image](https://github.com/user-attachments/assets/ea4611a1-49a9-4641-bf48-755feeb7e69c)
 
-   - Description
+   - DA/BA are lower than the average salary in each region.
+   - Dublin offeres highest salaries for DA/BA. Interestingly, Cork is second lowest.
 
 3. **Visualization 3**
 
    ![image](https://github.com/user-attachments/assets/99d74d03-ea2c-41aa-998a-8f4bd567c4cd)
 
-
-   - Description
+   - Graduate roles offer higher salaries than junior positions. This might indicate that some junior (entry) positions don't require college degrees and hence are paid less.
+   - Gradual increase until senior positions where their is potential for large jumps in salary.
 
 4. **Visualization 4**
 
    ![image](https://github.com/user-attachments/assets/e22f266f-6fb2-4630-94f4-373d518cc8af)
 
-
-   - Description
+   - Clear gap between DA/BA and DE/DS. Highlights a natural career progression.
+   - Upon further analysis of the dataset, Python (amond other coding languages) are the main technologies that seperate DA/BA from DE/DS.
 
 5. **Visualization 5**
 
    ![image](https://github.com/user-attachments/assets/a52dc2ff-bb63-41fe-90bf-c29e6c263f06)
 
 
-   - Description
+   - In contrast to visualisation 2, seven regions show DE/DS that earn above the regions average.
+   - Again, a clear disparity between salaries for the roles.
 
 6. **Visualization 6**
 
    ![image](https://github.com/user-attachments/assets/974b990b-98a2-42fb-84e7-5d042bb83715)
-
-
-   - Description
 
 7. **Visualization 7**
 
@@ -95,7 +96,8 @@ This project was undertaken soon after I graduated and right before I started my
    ![image](https://github.com/user-attachments/assets/345859ba-d9ee-4969-98b8-42a65d892876)
 
 
-   - Description
+   - Both graphs above highlight the earnings gap between the roles. Almost all seniority levels offer higher comp for DE/DS, becoming even larger of a gap at high seniority levels.
+   - There are a number of roles that are offered to DE/DS that are not present for DA/BA.
 
 ## Analysis
 
