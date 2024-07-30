@@ -99,23 +99,14 @@ This project was undertaken soon after I graduated and right before I started my
 
 ## Analysis
 
-Provide detailed analysis, including any insights you discovered. Use bullet points or subheadings for clarity.
-
-- **Descriptive Statistics**: Summarize the main statistical findings.
-- **Trends and Patterns**: Describe any trends or patterns you identified in the data.
+- **Descriptive Statistics**: Summarize the main statistical findings (TBA).
+- **Trends and Patterns**: Describe any trends or patterns you identified in the data(TBA).
 
 ## Results
 
 - **Key Finding 1**: While urban locations and areas outside of Ireland offer higher total compensation, interestingly, Cork has lower compensation.
 - **Key Finding 2**: Most regions exhibit clustering around the €50K to €80K range, indicating this is a common compensation range for Data/Business Analysts in these areas. This gives me a good indication to potential earnings upon completetion of my graduate program.
 - **Key Finding 3**: Data Engineering/Science roles consistently offer higher compensation across all levels of seniority compared to Data/Business Analyst roles, with an even higher disparity at higher seniority levels. This indicated that organisations may need to restructure compensation costs or increase number of senior roles for Data/Business Analysts to attract and retain talent. 
-
-## Acknowledgments
-
-Acknowledge any individuals or resources that helped you with the project.
-
-- **Mentors/Colleagues**: Names
-- **Resources**: Links to articles, documentation, etc.
 
 ## Contact
 
