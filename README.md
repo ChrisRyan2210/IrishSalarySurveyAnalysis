@@ -37,8 +37,6 @@ Provide a description of the dataset(s) used, including sources, types of data, 
 
 ## Methodology
 
-Outline the steps you took to analyze the data:
-
 1. **Data Cleaning**:
    - Excel
        - Performed preliminary analysis on Excel to remove columns not relevant to my objective.
@@ -51,7 +49,13 @@ Outline the steps you took to analyze the data:
 3. **Data Analysis**: Discuss the analytical methods and tools used to analyze the data.
    - SQL (SQL Server Management Studio)
        - Performed some initial basic exploratory analysis to get understanding of data. ![image](https://github.com/user-attachments/assets/62e24d6a-ab11-4a3f-88f7-bf3162f95253)
+       - 
+## Visualizations
 
+1. **Visualization 1**: ![Dashboard 1](link-to-screenshot-or-dashboard)
+   - Description
+2. **Visualization 2**: ![Dashboard 2](link-to-screenshot-or-dashboard)
+   - Description
 
 ## Analysis
 
@@ -68,15 +72,6 @@ Summarize the main results of your analysis. Highlight key findings and their im
 - **Key Finding 2**: Description
 - **Key Finding 3**: Description
 
-## Visualizations
-
-Include screenshots or links to your Tableau visualizations. Provide a brief explanation for each visualization.
-
-1. **Visualization 1**: ![Dashboard 1](link-to-screenshot-or-dashboard)
-   - Description
-2. **Visualization 2**: ![Dashboard 2](link-to-screenshot-or-dashboard)
-   - Description
-
 ## Acknowledgments
 
 Acknowledge any individuals or resources that helped you with the project.
@@ -88,5 +83,5 @@ Acknowledge any individuals or resources that helped you with the project.
 
 Feel free to contact me for any questions or collaborations:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: [chrisryan@umail.ucc.ie](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/christopher-ryan-8229a81b9/)
