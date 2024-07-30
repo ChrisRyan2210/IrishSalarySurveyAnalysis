@@ -27,6 +27,17 @@ SET [Total_Comp] = CASE
 					WHEN [Total_Comp] LIKE '400k+' THEN 400000
 					END;
 
+--Changing column type to int for analysis
+BEGIN TRANSACTION;
+ALTER TABLE [SurveyResults_2024]
+ALTER COLUMN [Total_Comp] FLOAT;
+GO
+--Checking for errors
+SELECT *
+FROM SurveyResults_2024;
+GO
+COMMIT;
+
 --Removing unemployed as it salaries will inaccurately skew data (most were removed in excel earlier but missed some so fixing here)
 DELETE FROM [SurveyResults_2024]
 WHERE [#_of_companies_worked_for] IS NULL;
