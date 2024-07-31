@@ -9,7 +9,6 @@
 - [Analysis](#analysis)
 - [Results](#results)
 - [Visualizations](#visualizations)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
