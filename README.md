@@ -98,10 +98,6 @@ This project was undertaken soon after I graduated and right before I started my
    - Both graphs above highlight the earnings gap between the roles. Almost all seniority levels offer higher comp for DE/DS, becoming even larger of a gap at high seniority levels.
    - There are a number of roles that are offered to DE/DS that are not present for DA/BA.
 
-## Analysis
-
-- **Descriptive Statistics**: Summarize the main statistical findings (TBA).
-- **Trends and Patterns**: Describe any trends or patterns you identified in the data(TBA).
 
 ## Results
 
